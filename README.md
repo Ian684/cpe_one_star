@@ -2,6 +2,9 @@
 
 This repository contains Python solutions for the CPE one-star programming problem set. It is intended as a personal practice archive for strengthening basic algorithmic thinking, UVa-style input/output handling, and common competitive programming patterns.
 
+See [INDEX.md](INDEX.md) for the problem ranges, alternate implementation,
+and a repeatable study workflow.
+
 ## Reference
 
 The problem list follows the CPE one-star required problem collection:
